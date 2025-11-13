@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Kurella Jahnavi!
 
-🎓 I'm a Computer Science and Engineering graduate from *Inscient Institute of Technology (affiliated with JNTUH)*.  
+🎓 I'm a Computer Science and Engineering graduate from *In scient Institute of Technology (affiliated with JNTUH)*.  
 💻 I'm passionate about *Artificial Intelligence, Machine Learning, and Software Development*.  
 🌱 I’m currently learning *Advanced Java, **Python for AI, and **Web Development*.  
 💼 I recently completed a *Java Internship at Codesoft*, where I gained hands-on experience in backend development.  
 🤝 I’m looking to collaborate on *AI/ML projects, **Java-based applications, and **open-source contributions*.  
 💬 Ask me about *Java, **Python, **AI/ML, or **Web Development*.  
-📫 How to reach me: [your email or LinkedIn link here]  
+📫 How to reach me: [jahnaviedu2003@gmail.com or https://www.linkedin.com/in/kurella-jahnavi]  
 ⚡ Fun fact: I love exploring new technologies and turning ideas into code! 🚀  
 
 ---
